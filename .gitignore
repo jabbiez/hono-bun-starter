@@ -1,0 +1,9 @@
+dist
+build
+node_modules
+worker
+package-lock.json
+yarn.lock
+.cargo-ok
+bun.lockb
+*.tgz

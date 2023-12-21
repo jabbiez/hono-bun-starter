@@ -1,5 +1,5 @@
 {
-    "name": "user",
+    "name": "application_nme",
     "module": "index.ts",
     "type": "module",
     "scripts": {
